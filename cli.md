@@ -4,3 +4,4 @@ Essential cli tools
 -zoxide
 -exa
 -nvim
+-starship (command prompt)
