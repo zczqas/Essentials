@@ -5,3 +5,4 @@ Essential cli tools
 -exa
 -nvim
 -starship (command prompt)
+-- https://github.com/Gogh-Co/Gogh
