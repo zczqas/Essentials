@@ -1,1 +1,1 @@
-# Collection of wallpapers and linux cli tools
+Collection of wallpapers and linux cli tools
