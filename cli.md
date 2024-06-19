@@ -3,6 +3,7 @@ Essential cli tools
 - bat  
 - zoxide  
 - exa  
-- nvim  
+- nvim
+- gitleaks
 - starship (command prompt)  
 - https://github.com/Gogh-Co/Gogh
