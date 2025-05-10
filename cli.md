@@ -6,4 +6,11 @@ Essential cli tools
 - nvim
 - gitleaks
 - starship (command prompt)  
-- https://github.com/Gogh-Co/Gogh
+
+- [air](https://github.com/air-verse/air)
+- [golang-migrate](https://github.com/golang-migrate/migrate)
+- [pressly/goose](https://github.com/pressly/goose)
+
+- Ent
+- Atlas
+- Gorm
